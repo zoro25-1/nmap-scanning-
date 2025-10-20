@@ -10,7 +10,6 @@ Scanned local network to identify open ports using Nmap.
 3. Ran TCP SYN scan using:
    nmap -sS 192.168.1.0/24
 4. Saved results
-5. Researched services & risks
 
 ## Files Included:
 - scan_results.txt
