@@ -1,0 +1,9 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-20 21:33 IST
+Nmap scan report for 10.***.31.13*
+Host is up (0.059s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 3*:B*:8*:2*:E*:65 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.95 seconds
