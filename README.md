@@ -13,4 +13,4 @@ Scanned local network to identify open ports using Nmap.
 
 ## Files Included:
 - scan_results.txt
-- screenshots 
+  
